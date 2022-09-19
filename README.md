@@ -13,6 +13,7 @@ The client wants their code to be optimized for search engines, but it has some 
 -added a contact form so their company can be more accessible. 
 
 ## Screenshots
+![Screenshot 2022-09-19 153607](https://user-images.githubusercontent.com/112577325/191116856-2cc9b245-e2b1-41ee-867c-a59a6bf8aae9.png)  
 ![Screenshot 2022-09-19 153737](https://user-images.githubusercontent.com/112577325/191115699-b4227791-343b-43ab-b90b-5c56806c4b42.png)
 ## Credit
 
