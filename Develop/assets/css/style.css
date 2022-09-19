@@ -24,9 +24,6 @@ body {
     font-size: 48px;
 }
 
-.header h1 .seo { /* delete this*/
-    color: #d9dcd6;
-}
 
 .header div {
     padding-top: 15px;
@@ -210,28 +207,3 @@ p {
 .footer h2 {
     font-size: 20px;
 }
-
-@media screen and (max-width: 992px) {
-    .card {
-      width: 50%;
-    }
-    /* Change the header color */
-    header {
-      background: #772014;
-    }
-  }
-  
-  /* Cards are stacked on top of each other at 768px or smaller */
-  @media screen and (max-width: 768px) {
-    .card {
-      width: 100%;
-    }
-    /* Change the header color */
-    header {
-      background: #8ac4ff;
-    }
-  }
-  .wrapper {
-    width: 100%;
-  } 
-  
