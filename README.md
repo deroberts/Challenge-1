@@ -18,7 +18,7 @@ The client wants their code to be optimized for search engines, but it has some 
 ## Credit
 
 w3 schools-"https://www.w3schools.com/html/html_forms.asp"
-If you followed tutorials, include links to those here as well.
+
 
 
 
