@@ -1,4 +1,4 @@
-# Code Refractor Starter Code
+# Code Refactor Starter Code
 # <Challenge-1>
 
 ## Description
