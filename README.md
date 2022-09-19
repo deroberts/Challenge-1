@@ -17,7 +17,6 @@ The client wants their code to be optimized for search engines, but it has some 
 ![Screenshot 2022-09-19 153737](https://user-images.githubusercontent.com/112577325/191115699-b4227791-343b-43ab-b90b-5c56806c4b42.png)
 ## Credit
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
 w3 schools-"https://www.w3schools.com/html/html_forms.asp"
 If you followed tutorials, include links to those here as well.
 
