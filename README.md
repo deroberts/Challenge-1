@@ -12,6 +12,8 @@ The client wants their code to be optimized for search engines, but it has some 
 -changed the footer from an h2 size header to an h4
 -added a contact form so their company can be more accessible. 
 
+## Screenshots
+![Screenshot 2022-09-19 153737](https://user-images.githubusercontent.com/112577325/191115699-b4227791-343b-43ab-b90b-5c56806c4b42.png)
 ## Credit
 
 If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
