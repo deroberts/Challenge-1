@@ -10,15 +10,11 @@ The client wants their code to be optimized for search engines, but it has some 
 -added alts to image elements
 -added id tag to "search engine optimization" button
 -changed the footer from an h2 size header to an h4
--added a contact form so their company can be more accessible. 
+-added psuedo elements to replace color numbers.
 
 ## Screenshots
-![Screenshot 2022-09-19 153607](https://user-images.githubusercontent.com/112577325/191116856-2cc9b245-e2b1-41ee-867c-a59a6bf8aae9.png)  
-![Screenshot 2022-09-19 153737](https://user-images.githubusercontent.com/112577325/191115699-b4227791-343b-43ab-b90b-5c56806c4b42.png)
-## Credit
-
-w3 schools-"https://www.w3schools.com/html/html_forms.asp"
-
+![Screenshot 2022-09-19 225608](https://user-images.githubusercontent.com/112577325/191164294-09661683-5175-4f76-870d-08a5919d85b1.png)
+![Screenshot 2022-09-19 225700](https://user-images.githubusercontent.com/112577325/191164421-160aa590-49b4-4f4a-bd7c-778299964071.png)
 
 
 
